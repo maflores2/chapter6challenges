@@ -1,0 +1,10 @@
+{
+  "name": "chapter6",
+  "app_id": "",
+  "proxies": [
+    {
+      "path": "/api/forecast",
+      "proxyUrl": "https://api.darksky.net/forecast/e33b593dcdddc5bfaa38a4babc79d95a/"
+    }
+  ]
+}
